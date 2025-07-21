@@ -16,8 +16,8 @@ This repo provides two scripts:
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/whisper-live-multichannel.git
-   cd whisper-live-multichannel
+   git clone https://github.com/jts3k/Faster-whisper-Multichannel-Transcription.git
+   cd Faster-whisper-Multichannel-Transcription-main
 
 
 2. **Create & activate a virtual environment**
