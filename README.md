@@ -1,5 +1,7 @@
 # Faster-whisper Multichannel Transcription
 
+[![Demo video](https://img.youtube.com/vi/MyQMvJgQYA4/0.jpg)](https://www.youtube.com/watch?v=MyQMvJgQYA4)
+
 This repo provides two scripts:
 
 - **list_devices.py**  
